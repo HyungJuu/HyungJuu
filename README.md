@@ -44,3 +44,13 @@ Here are some ideas to get you started:
 <div align=center>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
+
+<br>
+
+<div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungJuu&show_icons=true&theme=solarized-light&layout=compact)](https://github.com/HyungJuu/github-readme-stats)
+
+![HyungJuu GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJuu&show_icons=true&theme=solarized-light)
+
+</div>
