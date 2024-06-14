@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 
 <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungJuu&show_icons=true&theme=solarized-light&layout=compact)](https://github.com/HyungJuu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungJuu&show_icons=true&theme=white-light&layout=compact)](https://github.com/HyungJuu/github-readme-stats)
 
-![HyungJuu GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJuu&show_icons=true&theme=solarized-light)
+![HyungJuu GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJuu&show_icons=true&theme=white-light)
 
 </div>
