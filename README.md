@@ -26,7 +26,7 @@ Here are some ideas to get you started:
                 Email 📩 : rmsdk617@naver.com </h3>
 
 <h2 align="center"> 📚 Tech Stack 📚 </h2>
-    <h3> Learning Languages 💬</h3>
+    <h4> Learning Languages ✨</h4>
 
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/>
@@ -46,11 +46,12 @@ Here are some ideas to get you started:
     <!-- <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /> -->
-    <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
-    <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
-    <img height="40" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" title="Arduino">
-    <img height="40" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" title="Raspberry Pi">
-    <img height="50" src="https://img.icons8.com/?size=100&id=KZHjwwenS7oK&format=png&color=000000" title="database">
+    <img height="35" src="https://img.icons8.com/?size=100&id=106567&format=png&color=000000" title="GitHub">
+    <img height="35" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
+    <img height="35" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
+    <img height="35" src="https://img.icons8.com/?size=100&id=KZHjwwenS7oK&format=png&color=000000" title="database">
+    <img height="35" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" title="Raspberry Pi">
+    <img height="35" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" title="Arduino">
 <br>
 <div>
 
