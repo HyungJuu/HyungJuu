@@ -6,13 +6,24 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyungJuu%2Fhit-counter&count_bg=%23D0D5FF&title_bg=%23B6B2FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h2 align="center"> 📝 Profile 📝 </h2>
-<p align="center">😊 Name : Kim Geunah(김근아) <br>
-                📩 Email : rmsdk617@naver.com <br>
-                📋 Activity : 부경대학교 윈도우 플랫폼기반 IoT 시스템개발자 과정(2024.01 ~ 2024.09) <br>
-                Project : ... <br>
-                Major : <br>
-                Minor : 
-</p>
+    <p align="center">😊 Name : Kim Geunah(김근아) <br>
+                    📩 Email : rmsdk617@naver.com <br>
+                    📋 Activity : 부경대학교 윈도우 플랫폼기반 IoT 시스템개발자 과정(2024.01 ~ 2024.09) <br>
+                    Project : ... <br>
+                    Major : <br>
+                    Minor : 
+    </p>
+
+<h2> ➡️ Contect ⬅️ </h2>
+    <a href="">
+    <img src="https://img.shields.io/badge/Naver-2EB500?logo=Naver&logoColor=white" alt="Naver">
+</a>
+<a href="https://open.kakao.com/o/sg9xfHBg">
+    <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?logoColor=white&logo=KakaoTalk" alt="KakaoTalk">
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white" alt="Instagram">
+</a>
 
 <h2 align="center"> 📚 Tech Stack 📚 </h2>
 <h4>✨ Front-end ✨</h4>
@@ -43,18 +54,18 @@
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /> -->
     <img height="35" src="https://img.icons8.com/?size=100&id=106567&format=png&color=000000" title="GitHub">
+    <img height="35" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" title="Git">
     <img height="35" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
     <img height="35" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
     <img height="35" src="https://img.icons8.com/?size=100&id=KZHjwwenS7oK&format=png&color=000000" title="database">
     <img height="35" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" title="Raspberry Pi">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png">
+    <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png" title="Putty">
     <img height="35" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" title="Arduino">
 </p>
 
 <br>
 
-<h2 align="center"> 🌟 Stats 🌟 </h2>
-
+<h2 align="center"> ✔️ Stat & Languages ✔️ </h2>
 <p align="center">
     <a href="https://github.com/HyungJuu">
         <img src="https://github-readme-stats.vercel.app/api?username=HyungJuu&show_icons=true&theme=radical">
