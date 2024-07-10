@@ -9,9 +9,7 @@
     <p align="center">😊 Name : Kim Geunah(김근아) <br>
                     📩 Email : rmsdk617@naver.com <br>
                     📋 Activity : 부경대학교 윈도우 플랫폼기반 IoT 시스템개발자 과정(2024.01 ~ 2024.09) <br>
-                    Project : ... <br>
-                    Major : <br>
-                    Minor : 
+                    Project : 스마트팩토리 - 재활용 분류 시스템 <br>
     </p>
 
 <h2> ➡️ Contect ⬅️ </h2>
