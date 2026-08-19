@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=KIM%20GEUN%20AH&fontSize=90&animation=twinkling&stroke=FFFFFF&strokeWidth=2)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyungJuu%2Fhit-counter&count_bg=%23D0D5FF&title_bg=%23B6B2FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyungJuu%2Fhit-counter&count_bg=%23D0D5FF&title_bg=%23B6B2FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 <h2 align="center"> 📝 Profile 📝 </h2>
     <p align="center">😊 Name : Kim Geunah(김근아) <br>
@@ -61,7 +61,7 @@
     <img height="35" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" title="Arduino">
 </p>
 
-<br>
+<!--<br>
 
 <h2 align="center"> ✔️ Stat & Languages ✔️ </h2>
 <p align="center">
@@ -71,9 +71,9 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungJuu&show_icons=true&theme=white-light&layout=compact)](https://github.com/HyungJuu/github-readme-stats) -->
 
-<!-- ![HyungJuu GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJuu&show_icons=true&theme=radical) -->
+<!-- ![HyungJuu GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJuu&show_icons=true&theme=radical)
 </p>
 
 <br>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg) -->
